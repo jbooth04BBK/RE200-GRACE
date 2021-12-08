@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: hotpink
+}
+.analytics-table {
+  border: solid;
+  border-width: 0.2px;
+}
+.analytics-table td {
+  border: solid;
+  border-width: 0.2px;
+}
+
+.analytics-table tr:hover {
+  background-color: #b9c0c9;
+}
+
+.analytics-table td:hover {
+  background-color: #5b8ac7;
+}
+
+.controls-table {
+  width: 100%;
+  border-width: 0.2px;
+}
+.controls-table td {
+  width: 10%;
+  border-width: 0.2px;
+}
+

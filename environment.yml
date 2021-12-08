@@ -1,0 +1,4 @@
+name: RE200-GRACE
+dependencies:
+  - python=3.8
+  - pip
