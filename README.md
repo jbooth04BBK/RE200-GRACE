@@ -93,6 +93,7 @@ Creates initial set of graph analytics stored in JSON files used in initial_grap
     - Select a node
 
 ###Initial_graph_analytics_pipeline.py
+Creates a summary analytics file from the sp03 DOTs RDV.
 - phase = "pipeline"
 - Stage 1 – create_graphs()
 - Stage 2 – plot_graph_analytics_summary() - example plot of changes in centrality positions.
