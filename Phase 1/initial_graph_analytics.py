@@ -183,7 +183,7 @@ def main():
         phase = "analytics"
 
         # Ignore python script name - get list of stages to run
-        run_stages = get_stages(sys.argv[1:], default=[1,2,3,4,5,6,7,8,])
+        run_stages = get_stages(sys.argv[1:], default=[1,2,3,4,5,6,7,8 ])
 
         log_debug(f"Phase: {phase}, stages: {run_stages}")
 
