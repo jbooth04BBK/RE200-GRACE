@@ -4,7 +4,9 @@
 
 [Phase 1](#phase-1)
 
-[Code General](#code-general)
+[Documents](#documents)
+
+[Code Setup](#code-setup)
 
 ## Introduction
 The GOSH DRE/CIRP project for John Booth's PhD.
@@ -30,9 +32,14 @@ Currently it is envisaged that the PhD will be split into 3 broad phases:
 
 ## Phase 1
 
-Understanding the fundamentals of graph analytics with emphasis on example EPR data- [ReadMe](Phase%201/README.md) - 
+Understanding the fundamentals of graph analytics with emphasis on example EPR data - [ReadMe](Phase%201/README.md)
 
-## Code General
+## Documents
+### Presentations:
+- 2021-10-01: PhD Introductory Presentation - [PDF](Docs/presentation_20211001.pdf)
+- 2021-12-10: Understanding the fundamentals of graph analytics with emphasis on example EHR data - [PDF](Docs/presentation_20211210.pdf)
+
+## Code Setup
 ### Packages used:
 Anaconda base installation plus:
 - colour==0.1.5
@@ -47,6 +54,8 @@ Anaconda base installation plus:
 - plotly==5.3.1
 - PyYAML==5.4.1
 - XlsxWriter==3.0.1
+
+For a full set of requirements see: [requirements.txt](requirements.txt)
 
 ### Project path
 The default path for the project is: "Z:\Projects\Research\0200-GRACE"
